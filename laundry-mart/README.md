@@ -21,3 +21,4 @@ This project is a simple laundry service webpage created using HTML. It provides
 
 ## Contact
 Email: info@laundrymart.com
+Deployment retry-October 20,2026
