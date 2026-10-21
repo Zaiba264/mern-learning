@@ -1,0 +1,57 @@
+
+body {
+    background-color: rgb(245, 67, 2);
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+    color: darkblue;
+}
+
+#bglime span {
+    color: red;
+}
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+    font-size: 16px;
+}
+p span {
+    color: black;
+    font-size: 30px;
+}
+
+ul li {
+    color: white;
+    font-size: 20px;
+}
+ul li:first-child mark {
+    background-color: yellow;
+    color: green;
+}
+
+ul li:nth-child(2) mark {
+    background-color: blue;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: green;
+    background-color:blue;
+}
+
+span {
+    color: red;
+}
