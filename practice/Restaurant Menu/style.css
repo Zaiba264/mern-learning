@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #dce2e5;
+}
+h1 {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-size: 50px;
+}
+h2, h3{
+    text-align:left;
+    color: #4ac776;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+.food-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    height: auto;
+}
+.food-img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.menu-item {
+    text-align:left;
+    margin: 20px 0;
+    color: #5dea06;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    color: #f48302;
+    font-size: 20px;
+    font-weight: bold;
+}
+span {
+    color: #99d709;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 3px solid #112aa7;
+    padding: 25px 25px 25px 25px;
+    border: 1px solid #4ac776;
+    box-shadow: 0px 0px 10px #8f1122;
+    background-color: #aeb31c80;
+    box-sizing: border-box;
+}
+button {
+    background-color: #a2bfac;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background: linear-gradient(to right, #a2bfac, #4ac776);
+}
+h1 {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-size: 50px;
+}
